@@ -1,0 +1,8 @@
+Assignment:
+1. Create 2 components -> Warning Alert and success Alert
+Create one maunally and one through CLI
+2. Output them beneath each other, put some content in them
+3. Try nesting them
+4. Nest components
+5. Use external/internal template and styles
+6. Different selectors
